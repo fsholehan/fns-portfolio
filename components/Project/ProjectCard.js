@@ -18,7 +18,7 @@ export default function ProjectCard() {
         </div>
       </div>
       <div className="w-auto flex flex-col justify-around h-full">
-        <div>
+        <div className="space-y-1">
           <h1 className="text-base font-bold md:text-2xl">
             Admusic - streaming songs for free
           </h1>
@@ -29,7 +29,7 @@ export default function ProjectCard() {
             assumenda.
           </p>
         </div>
-        <div>
+        <div className="space-y-1">
           <span className="font-bold text-gray-100">Tech Stack</span>
           <div className="flex flex-wrap gap-4 items-center">
             <div className="rounded-md overflow-hidden">
@@ -60,6 +60,14 @@ export default function ProjectCard() {
               />
             </div>
           </div>
+        </div>
+        <div className="flex items-center space-x-4">
+          <a className="link-card" href="https://admusic-mu.vercel.app">
+            Demo
+          </a>
+          <a className="link-card" href="https://github.com">
+            Github
+          </a>
         </div>
       </div>
     </div>
