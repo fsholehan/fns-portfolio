@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
+import Project from "../components/Project";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <main className="container mx-auto py-2 px-3 sm:px-0 relative">
         <Header />
         <Hero />
+        <Project />
       </main>
     </>
   );
