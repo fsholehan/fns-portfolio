@@ -3,7 +3,7 @@
 
 export default function HeroRightMenu({ subtitle, title, info }) {
   return (
-    <li className="flex h-12 space-x-6 group">
+    <li className="flex h-12 space-x-2 md:space-x-6 group">
       <div className="space-y-1">
         <div className="w-1 h-full bg-slate-800 rounded-3xl group-hover:bg-blue-500" />
       </div>
