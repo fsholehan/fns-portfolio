@@ -21,8 +21,8 @@ export default function Navbar() {
 
       <nav
         className={`md:hidden  ${
-          isShow ? "absolute" : "hidden"
-        } inset-0 w-full h-screen bg-slate-800 p-5 transition duration-200`}
+          isShow ? "fixed" : "hidden"
+        } inset-0 w-full h-screen bg-slate-800 p-5 transition duration-200 z-50`}
       >
         <div className="flex justify-end">
           <button
