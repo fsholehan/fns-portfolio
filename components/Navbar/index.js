@@ -14,7 +14,7 @@ export default function Navbar() {
   return (
     <>
       {!isShow && (
-        <button type="button" onClick={handleShow}>
+        <button className="sm:hidden" type="button" onClick={handleShow}>
           <Bars3Icon className="h-7" />
         </button>
       )}

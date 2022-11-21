@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Header from "../components/Header";
+import Hero from "../components/Hero";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
       <main className="container mx-auto py-2 px-3 sm:px-0 relative">
         <Header />
+        <Hero />
       </main>
     </>
   );
