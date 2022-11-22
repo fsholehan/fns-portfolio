@@ -1,0 +1,28 @@
+[
+  {
+    "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
+    "title": "Admusic Streaming",
+    "meta": "Streaming music for free",
+    "description": "Web streaming lagu secara online. User bisa menambahkan lagu ke dalam favorite item. Data berasal dari Youtube jadi jangan meragukan kelengkapannya.",
+    "tech": [
+      "/images/nextjs-logo.svg.png",
+      "/images/tailwind-logo.svg.png",
+      "/images/react-icon.svg.png"
+    ],
+    "github": "https://github.com/fsholehan/admusic",
+    "link": "https://admusic-mu.vercel.app"
+  },
+  {
+    "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
+    "title": "Nakanime Nonton Anime Gratis",
+    "meta": "Streaming music for free",
+    "description": "Web untuk nonton anime secara online. Anime cukup lengkap dan gratis. Bisa diakses lewat pc maupun hp, dengan desain yang simple namun modern. ",
+    "tech": [
+      "/images/nextjs-logo.svg.png",
+      "/images/tailwind-logo.svg.png",
+      "/images/react-icon.svg.png"
+    ],
+    "github": "https://github.com/fsholehan/nakanime",
+    "link": "https://nakanime.vercel.app"
+  }
+]
