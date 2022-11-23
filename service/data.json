@@ -13,7 +13,7 @@
     "link": "https://admusic-mu.vercel.app"
   },
   {
-    "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
+    "image": "https://raw.githubusercontent.com/fsholehan/fns-portfolio/main/public/images/nakanime.png",
     "title": "Nakanime Nonton Anime Gratis",
     "meta": "Streaming music for free",
     "description": "Web untuk nonton anime secara online. Anime cukup lengkap dan gratis. Bisa diakses lewat pc maupun hp, dengan desain yang simple namun modern. ",
@@ -24,5 +24,18 @@
     ],
     "github": "https://github.com/fsholehan/nakanime",
     "link": "https://nakanime.vercel.app"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/fsholehan/my-portfolio/main/public/images/phy.png",
+    "title": "Photography land - Web untuk Profesional Fotografer",
+    "meta": "Streaming music for free",
+    "description": "Web untuk mengenalkan anda sebagai seorang fotografer yang profesional. Dengan memperlihatkan portfolio yang anda punya.",
+    "tech": [
+      "/images/html-logo.svg.png",
+      "/images/tailwind-logo.svg.png",
+      "/images/javascript-logo.svg.png"
+    ],
+    "github": "https://github.com/fsholehan/photography-land",
+    "link": "https://photography-fns.netlify.app/"
   }
 ]
