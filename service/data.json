@@ -37,5 +37,18 @@
     ],
     "github": "https://github.com/fsholehan/photography-land",
     "link": "https://photography-fns.netlify.app/"
+  },
+  {
+    "image": "https://i.pinimg.com/564x/f0/33/3c/f0333c3447e1aade52e9b2137b842932.jpg",
+    "title": "Netbook - Social Media Landing Page",
+    "meta": "Streaming music for free",
+    "description": "Landing page untuk web social media dilengkapi dengan berbagai data dan ui yang keren.",
+    "tech": [
+      "/images/html-logo.svg.png",
+      "/images/tailwind-logo.svg.png",
+      "/images/javascript-logo.svg.png"
+    ],
+    "github": "https://github.com/fsholehan/netbook",
+    "link": "https://netbook-fns.netlify.app/"
   }
 ]
