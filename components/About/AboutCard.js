@@ -13,13 +13,12 @@ export default function AboutCard() {
         </div>
         <div className="space-y-3 w-full md:w-2/4">
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae a
-            molestiae, fugiat, qui magni modi blanditiis, soluta corrupti
-            assumenda odio nostrum. Iste, exercitationem rerum.
+            Hello, this is Fuad. I am a professional front-end web developer and
+            have been experience in this field for 2 long years.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi,
-            atque?
+            Have basic knowledge about html, css,& javascript. Currently learn
+            about ReactJS, with nextjs for sure.
           </p>
         </div>
         <div className="w-full md:w-1/2 space-x-3">
