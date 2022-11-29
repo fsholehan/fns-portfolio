@@ -4,7 +4,7 @@ import data from "../../service/data.json";
 
 export default function Project() {
   return (
-    <div className="py-10">
+    <div id="data-project" className="py-10">
       <Title title="Awakening Project" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {data.map((info, i) => (
