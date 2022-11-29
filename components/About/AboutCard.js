@@ -17,7 +17,7 @@ export default function AboutCard() {
             have been experience in this field for 2 long years.
           </p>
           <p>
-            Have basic knowledge about html, css,& javascript. Currently learn
+            Have basic knowledge about html, css & javascript. Currently learn
             about ReactJS, with nextjs for sure.
           </p>
         </div>
