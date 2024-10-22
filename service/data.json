@@ -1,5 +1,14 @@
 [
   {
+    "image": "https://play-lh.googleusercontent.com/oRVsQgcOJwnLRQrUY6c-TZg42Ove1SdgR3M5StdUnsqvCjUvnbpjnSE0gaQLk4k-gw=w240-h480-rw",
+    "title": "Admusic: Musik & Podcast",
+    "meta": "Streaming music for free",
+    "description": "Aplikasi untuk streaming musik seperti spotify dan youtube music.",
+    "tech": ["/images/tailwind-logo.svg.png", "/images/react-icon.svg.png"],
+    "github": "",
+    "link": "https://play.google.com/store/apps/details?id=com.adtavita.admusic"
+  },
+  {
     "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
     "title": "Admusic Streaming",
     "meta": "Streaming music for free",
@@ -10,7 +19,7 @@
       "/images/react-icon.svg.png"
     ],
     "github": "https://github.com/fsholehan/admusic",
-    "link": "https://admusic-mu.vercel.app"
+    "link": "https://admusic-v2.vercel.app"
   },
   {
     "image": "https://raw.githubusercontent.com/fsholehan/fns-portfolio/main/public/images/nakanime.png",
